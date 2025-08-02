@@ -39,8 +39,8 @@ At least 8GB RAM (for large grids)
 
 Running the Application
 bash# Clone the repository
-git clone https://github.com/your-username/dstar-lite-pathfinding.git
-cd dstar-lite-pathfinding
+git clone https://github.com/mehaksmansoori/Robot-Path-Planning
+cd Robot-Path-Planning
 
 # Compile and run
 javac LargeDStarLitePathPlanner.java
