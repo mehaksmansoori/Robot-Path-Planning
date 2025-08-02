@@ -79,8 +79,6 @@ Node Storage: O(V) - one node per explored cell
 Priority Queue: O(V) worst case
 Memory Usage: ~152 bytes per cell (optimized)
 
-Scalability Ratings
-Grid SizeMemory UsageInit TimeReplan TimeRating100×100~61 MB<100ms<10ms⭐⭐⭐⭐⭐ Excellent500×500~1.5 GB<2s<100ms⭐⭐⭐⭐ Good1000×1000~6.1 GB<10s<500ms⭐⭐⭐ Acceptable
 🔧 Advanced Features
 Memory Management
 java// Object pooling reduces GC overhead by 60-80%
