@@ -227,8 +227,4 @@ Grid Size: 500×500 (250,000 cells)
 ✓ Memory used: 1.42 GB
 ✓ Efficiency: 94.7% optimal
 
-Grid Size: 1000×1000 (1,000,000 cells)
-✓ Initial planning: 8.91 s
-✓ Average replan: 284.5 ms
-✓ Memory used: 5.73 GB
-✓ Efficiency: 96.1% optimal
+
